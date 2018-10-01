@@ -1,4 +1,6 @@
-a = int(input())
-b = int(input())
-c = a + b
-print (c)
+from app.multiply import multiply
+import unittest
+
+class TestMyFunc(unittest.TestCase):
+	def test_multiply(self):
+		self.assertEqual(multiply(2, 3), 6)
