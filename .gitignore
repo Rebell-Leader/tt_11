@@ -1,5 +1,7 @@
 node_modules/
 venv/
+app/linkedlist/.idea
+.idea/
 *.pyc
 *.swo
 *.swp
