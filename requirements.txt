@@ -75,7 +75,7 @@ setproctitle==1.1.10
 six==1.11.0
 system-service==0.3
 systemd-python==234
-tornado==4.5.3
+tornado==6.3.2
 typed-ast==1.1.0
 ubuntu-drivers-common==0.0.0
 ufw==0.35
